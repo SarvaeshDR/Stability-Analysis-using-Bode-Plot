@@ -20,6 +20,7 @@ Computer with MATLAB software
 	Also determine the stability.
 
 ## Program: 
+```
 num=1
 
 den=[0.05 0.6 1 0]
@@ -42,7 +43,7 @@ else
 
     disp('unstable')
 end
-
+```
 ## Output:
 <img width="695" height="521" alt="Screenshot 2025-11-17 114652" src="https://github.com/user-attachments/assets/b8589a02-bcb9-489e-942f-6b32d587fb6d" />
 
